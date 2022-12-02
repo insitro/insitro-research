@@ -1,6 +1,6 @@
 # DEL-DOCK
 
-Code for: 
+Code for: https://arxiv.org/abs/2212.00136
 ### DEL-Dock: Molecular Docking-Enabled Modeling of DNA-Encoded Libraries ###
 #### Kirill Shmilovich, Benson Chen, Theofanis Karaletos, and Mohammad M. Sultan ####
 
