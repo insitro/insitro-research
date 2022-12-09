@@ -1,1 +1,1 @@
-This is the insitro research repository, for instance for public facing ML research code.
+This is the insitro research repository, which contains public ML research code, data, and other supporting materials.
