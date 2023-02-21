@@ -27,10 +27,10 @@ class PyroModel(BaseModel):
             final_act(),
         )
         self.zero_prob = torch.tensor(
-            [0.5488], device=torch.device("cuda"), dtype=torch.float
+            [0.5488], device=self.device, dtype=torch.float
         )
         self.zero_prob_mat = torch.tensor(
-            [0.007528], device=torch.device("cuda"), dtype=torch.float
+            [0.007528], device=self.device, dtype=torch.float
         )
         to_pyro_module_(self)
         self.svi = self._get_pyro_svi()
