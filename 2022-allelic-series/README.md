@@ -1,6 +1,6 @@
-# An allelic series rare variant association test for candidate gene discovery
+# An allelic-series rare-variant association test for candidate-gene discovery
 
-Preprint: https://www.biorxiv.org/content/10.1101/2022.12.23.521658v1
+Paper: https://www.cell.com/ajhg/fulltext/S0002-9297(23)00241-0
 
 Source code: https://github.com/insitro/AllelicSeries
 
